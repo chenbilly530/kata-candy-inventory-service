@@ -1,0 +1,1 @@
+# kata-candy-inventory-service
